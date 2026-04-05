@@ -1,0 +1,7 @@
+Forensics Environment Setup:
+Tool	              Version	VM/OS	Purpose  
+FTK Imager          	3.1  	Windows	Forensic Imaging and Hashing
+Autopsy	            4.22.1	Windows	Disk Image Analysis
+Wireshark            	4.6	  Windows	Network Traffic Capture
+RegRipper	            3.0	  Windows	Registry Artifact Extraction
+HashMyFiles	          2.50	Windows	Hashing
