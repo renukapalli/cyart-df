@@ -1,0 +1,11 @@
+Item: USB Drive
+Capacity: 16 GB
+Type: Physical Evidence
+
+Collected By: Renuka
+Date: 03-04-2026
+Location: Lab Environment
+
+Description:
+This USB device was collected as part of a digital forensic investigation.
+It was imaged using FTK Imager and verified using SHA-256 hashing.
